@@ -1,9 +1,11 @@
 .button {
-  padding: 1rem 2.5rem;
+  background: hsla(58, 100%, 75%, 0.3);
   border: none;
-  background: orange;
-  color: white;
   border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  font-family: "Montserrat";
   font-size: 18px;
   margin: 2px;
+  padding: 1rem 2.5rem;
 }
