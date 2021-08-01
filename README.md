@@ -6,3 +6,6 @@ This is an exercise I did when I started learning react. It's a calculator with 
 
 To test the calculator [click here](https://react-calculator-one-zeta.vercel.app/).
 
+## Demo
+
+<img src="src/img/calcDemo.gif" height="600">
